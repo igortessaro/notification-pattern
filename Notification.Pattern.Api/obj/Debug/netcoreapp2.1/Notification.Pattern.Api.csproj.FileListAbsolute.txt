@@ -1,0 +1,14 @@
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\bin\Debug\netcoreapp2.1\Notification.Pattern.Api.deps.json
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\bin\Debug\netcoreapp2.1\Notification.Pattern.Api.runtimeconfig.json
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\bin\Debug\netcoreapp2.1\Notification.Pattern.Api.runtimeconfig.dev.json
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\bin\Debug\netcoreapp2.1\Notification.Pattern.Api.dll
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\obj\Debug\netcoreapp2.1\Notification.Pattern.Api.csprojAssemblyReference.cache
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\obj\Debug\netcoreapp2.1\Notification.Pattern.Api.csproj.CoreCompileInputs.cache
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\obj\Debug\netcoreapp2.1\Notification.Pattern.Api.RazorAssemblyInfo.cache
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\obj\Debug\netcoreapp2.1\Notification.Pattern.Api.RazorAssemblyInfo.cs
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\obj\Debug\netcoreapp2.1\Notification.Pattern.Api.AssemblyInfoInputs.cache
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\obj\Debug\netcoreapp2.1\Notification.Pattern.Api.AssemblyInfo.cs
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\obj\Debug\netcoreapp2.1\Notification.Pattern.Api.RazorTargetAssemblyInfo.cache
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\bin\Debug\netcoreapp2.1\Notification.Pattern.Api.pdb
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\obj\Debug\netcoreapp2.1\Notification.Pattern.Api.dll
+C:\Users\igors\source\repos\Notification.Pattern\Notification.Pattern.Api\obj\Debug\netcoreapp2.1\Notification.Pattern.Api.pdb
